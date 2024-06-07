@@ -50,7 +50,77 @@
 - **Final Low Poly Model with Textures:** Provide the final low poly model in FBX or OBJ format with embedded or attached textures.
 - **Documentation:** A brief document (PDF) explaining your workflow, tools used, and any challenges faced and how they were resolved.
 
+  # How to Contribute
+
+We welcome your contributions! Please follow these steps to push your changes to the repository:
+
+### 1. Fork the Repository
+
+1. Navigate to the main page of the repository.
+2. Click the `Fork` button at the top right corner of the page.
+3. This will create a copy of the repository in your GitHub account.
+
+### 2. Clone Your Fork
+
+1. Open your terminal or command prompt.
+2. Clone your forked repository to your local machine using the following command:
+
+    ```bash
+    git clone https://github.com/your-username/back_end_test.git
+    ```
+
+3. Change into the repository directory:
+
+    ```bash
+    cd back_end_test
+    ```
+
+### 3. Create a New Branch
+
+1. Create a new branch for your changes:
+
+    ```bash
+    git checkout -b your-branch-name
+    ```
+
+### 4. Make Changes and Commit
+
+1. Make your desired changes to the code.
+2. Stage the changes for commit:
+
+    ```bash
+    git add .
+    ```
+
+3. Commit the changes with a descriptive message:
+
+    ```bash
+    git commit -m "Description of the changes"
+    ```
+
+### 5. Push Changes to Your Fork
+
+1. Push your changes to your forked repository on GitHub:
+
+    ```bash
+    git push origin your-branch-name
+    ```
+
+### 6. Create a Pull Request
+
+1. Navigate to the original repository (the one you forked from).
+2. Click on the `Pull requests` tab.
+3. Click the `New pull request` button.
+4. Select the branch you just pushed to your forked repository.
+5. Fill in the details of the pull request, providing a clear title and description of your changes.
+6. Click `Create pull request`.
+
+## Note
+
+Please ensure that all files and documentation are properly named and organized according to the submission requirements before pushing your changes.
+
+Thank you for contributing!
+
 ## Deadline
 The entire task must be completed and submitted within 2 days from the start of the test.
-##Note : 
-Push it to the same repo please .
+
