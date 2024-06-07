@@ -66,13 +66,13 @@ We welcome your contributions! Please follow these steps to push your changes to
 2. Clone your forked repository to your local machine using the following command:
 
     ```bash
-    git clone https://github.com/your-username/back_end_test.git
+    git clone https://github.com/your-username/3D-artist-test-.git
     ```
 
 3. Change into the repository directory:
 
     ```bash
-    cd back_end_test
+    cd 3D-artist-test-
     ```
 
 ### 3. Create a New Branch
